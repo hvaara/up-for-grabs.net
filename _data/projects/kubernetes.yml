@@ -8,8 +8,10 @@ tags:
 - containers
 - kubernetes
 upforgrabs:
-  name: good first issue
-  link: https://github.com/kubernetes/kubernetes/labels/good%20first%20issue
+  - name: good first issue
+    link: https://github.com/kubernetes/kubernetes/labels/good%20first%20issue
+  - name: help wanted
+    link: https://github.com/kubernetes/kubernetes/labels/help%20wanted
 stats:
   issue-count: 19
   last-updated: '2022-11-19T08:34:46Z'
